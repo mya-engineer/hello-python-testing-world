@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: slapping
+Version: 0.0.0
+Summary: Slap that like button!
+Home-page: UNKNOWN
+Author: ME?
+License: MIT
+Platform: unix
+Platform: linux
+Platform: osx
+Platform: cygwin
+Platform: win32
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.7.3
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.7
+Provides-Extra: testing
+License-File: LICENSE
+
+UNKNOWN
+
